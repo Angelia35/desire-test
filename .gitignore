@@ -1,0 +1,5 @@
+# 测试/截图/本地依赖，不进入仓库
+*.png
+test-e2e.js
+node_modules/
+.DS_Store
